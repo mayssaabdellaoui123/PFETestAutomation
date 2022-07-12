@@ -16,7 +16,7 @@
         <webdrivermanager.version>5.0.3</webdrivermanager.version>
         <ngwebdriver.version>1.1.5</ngwebdriver.version>
         <testng.version>7.3.0</testng.version>
-        <log4j.version>2.13.0</log4j.version>
+        <log4j.version>2.17.1</log4j.version>
         <version.selenium>3.141.59</version.selenium>
         <aspectj.version>1.8.10</aspectj.version>
 
